@@ -13,7 +13,6 @@ build/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
 
 # DuckDB
 *.duckdb
