@@ -36,3 +36,7 @@ archive/
 
 # Windows
 Thumbs.db
+
+
+# Generated plots
+notebooks/figures/*
